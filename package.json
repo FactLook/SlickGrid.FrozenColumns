@@ -1,6 +1,6 @@
 {
 	"name": "guriddo",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "KahWee Teng <t@kw.sg>",
 	"description": "Guriddo for SlickGrid that supports frozen column",
 	"contributors": [{
