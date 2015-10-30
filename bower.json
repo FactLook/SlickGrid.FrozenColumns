@@ -1,6 +1,6 @@
 {
-	"name": "guriddo",
-	"version": "0.2.0",
+	"name": "SlickGrid.FrozenColumns",
+	"version": "1.0.1",
 	"ignore": [
 		"**/.*",
 		"node_modules",
@@ -19,7 +19,14 @@
 		"numeral": "*",
 		"select2": "*"
 	},
-	"_source": "git@github.com:FactLook/guriddo.git",
+  "homepage": "https://github.com/FactLook/SlickGrid.FrozenColumns",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "e56a0d9ee7cca20df920f2b30f5103c0a966837a"
+  },
+  "_source": "git://github.com/FactLook/SlickGrid.FrozenColumns.git",
   	"_target": "*",
-  	"_originalSource": "git@github.com:FactLook/guriddo.git"
+  "_originalSource": "git://github.com/FactLook/SlickGrid.FrozenColumns.git"}
 }
