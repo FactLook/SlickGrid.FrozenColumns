@@ -11,7 +11,7 @@
 	"dependencies": {
 		"jquery": "*",
 		"lodash": "*",
-		"guriddo-formatfactory": "*"
+		"guriddo-formatfactory": "git@github.com:FactLook/guriddo-formatfactory.git"
 	},
 	"devDependencies": {
 		"jquery.onescroll": "master",
