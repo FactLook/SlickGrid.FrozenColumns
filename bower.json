@@ -18,5 +18,8 @@
 		"moment": "*",
 		"numeral": "*",
 		"select2": "*"
-	}
+	},
+	"_source": "git@github.com:FactLook/guriddo.git",
+  	"_target": "*",
+  	"_originalSource": "git@github.com:FactLook/guriddo.git"
 }
